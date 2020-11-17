@@ -2,6 +2,10 @@
   <action id="Macro.formate">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
   <action id="SaveAll" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
