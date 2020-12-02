@@ -1,0 +1,9 @@
+<templateSet group="Android">
+  <template name="csv" value="public $class$(android.content.Context context) {&#10;    this(context, null);&#10;}&#10;&#10;public $class$(Context context, android.util.AttributeSet attrs) {&#10;    this(context, attrs, 0);&#10;}&#10;&#10;public $class$(Context context, AttributeSet attrs, int defStyle) {&#10;    super(context, attrs, defStyle);&#10;    $cursor$&#10;}" description="Adds generic view constructors" toReformat="true" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
