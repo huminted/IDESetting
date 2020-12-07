@@ -1,7 +1,8 @@
 <code_scheme name="Default" version="173">
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JavaCodeStyleSettings>
     <option name="FIELD_NAME_PREFIX" value="m" />
-    <option name="VISIBILITY" value="private" />
+    <option name="REPLACE_INSTANCEOF_AND_CAST" value="true" />
   </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
