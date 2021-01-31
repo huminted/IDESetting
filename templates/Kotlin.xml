@@ -5,7 +5,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="ml" value="Log.d(&quot;humin_debug&quot;,&quot;&quot;)" toReformat="false" toShortenFQNames="true">
+  <template name="ml" value="Log.d(&quot;humin_debug&quot;,&quot;&quot;)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
