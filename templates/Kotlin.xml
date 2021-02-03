@@ -1,5 +1,5 @@
 <templateSet group="Kotlin">
-  <template name="cv" value="class $value$ @JvmOverloads constructor(context: Context?, attrs: AttributeSet? = null, defStyleAttr: Int = 0) : $value$(context, attrs, defStyleAttr) {&#10;" description="kotlin custom view" toReformat="false" toShortenFQNames="true">
+  <template name="cv" value="class $value$ @JvmOverloads constructor(context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0) : $value$(context, attrs, defStyleAttr) {&#10;" description="kotlin custom view" toReformat="false" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
