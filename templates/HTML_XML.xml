@@ -1,0 +1,50 @@
+<templateSet group="HTML/XML">
+  <template name="type" value="app:shape_type=&quot;$cursor$&quot;" description="shape_type" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="angle" value="app:shape_angle=&quot;$cursor$&quot;" description="shape_angle" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="startcolor" value="app:shape_start_color=&quot;$cursor$&quot;" description="shape_start_color" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="endcolor" value="app:shape_end_color=&quot;$cursor$&quot;" description="app:shape_end_color=&quot;$cursor$&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="solidcolor" value="app:shape_solid_color=&quot;$curosr$&quot;" description="shape_solid_color" toReformat="false" toShortenFQNames="true">
+    <variable name="curosr" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="strokecolor" value="app:shape_stroke_color=&quot;$curosr$&quot;" description="shape_stroke_color" toReformat="false" toShortenFQNames="true">
+    <variable name="curosr" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="strokewidth" value="app:shape_stroke_width=&quot;$curosr$&quot;" description="shape_stroke_width" toReformat="false" toShortenFQNames="true">
+    <variable name="curosr" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="radius" value="app:shape_radius=&quot;$cursor$&quot;" description="shape_radius" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
