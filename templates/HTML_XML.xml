@@ -5,7 +5,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="angle" value="app:shape_angle=&quot;$cursor$&quot;" description="shape_angle" toReformat="false" toShortenFQNames="true">
+  <template name="angle" value="app:shape_gradient_angle=&quot;$cursor$&quot;" description="shape_angle" toReformat="false" toShortenFQNames="true">
     <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />
