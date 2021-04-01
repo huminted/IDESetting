@@ -47,4 +47,28 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="topleft" value="app:shape_radius_top_left=&quot;$cursor$&quot;" description="shape_top_left_radius" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="topright" value="app:shape_radius_top_left=&quot;$cursor$&quot;" description="shape_top_right_radius" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="bottomleft" value="app:shape_radius_bottom_left=&quot;$cursor$&quot;" description="shape_bottom_left" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="bottomright" value="app:shape_radius_bottom_right=&quot;$cursor$&quot;" description="shape_bottom_right_radius" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
