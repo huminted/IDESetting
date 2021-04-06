@@ -11,25 +11,25 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="startcolor" value="app:shape_start_color=&quot;$cursor$&quot;" description="shape_start_color" toReformat="false" toShortenFQNames="true">
+  <template name="pressstartcolor" value="app:shape_press_start_color=&quot;$cursor$&quot;" description="shape_press_start_color" toReformat="false" toShortenFQNames="true">
     <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="endcolor" value="app:shape_end_color=&quot;$cursor$&quot;" description="app:shape_end_color=&quot;$cursor$&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="pressendcolor" value="app:shape_press_end_color=&quot;$cursor$&quot;" description="shape_press_end_color" toReformat="false" toShortenFQNames="true">
     <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="solidcolor" value="app:shape_solid_color=&quot;$curosr$&quot;" description="shape_solid_color" toReformat="false" toShortenFQNames="true">
+  <template name="presssolidcolor" value="app:shape_press_solid_color=&quot;$curosr$&quot;" description="shape_press_solid_color" toReformat="false" toShortenFQNames="true">
     <variable name="curosr" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="strokecolor" value="app:shape_stroke_color=&quot;$curosr$&quot;" description="shape_stroke_color" toReformat="false" toShortenFQNames="true">
+  <template name="pressstrokecolor" value="app:shape_press_stroke_color=&quot;$curosr$&quot;" description="shape_press_stroke_color" toReformat="false" toShortenFQNames="true">
     <variable name="curosr" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />
@@ -67,6 +67,36 @@
   </template>
   <template name="bottomright" value="app:shape_radius_bottom_right=&quot;$cursor$&quot;" description="shape_bottom_right_radius" toReformat="false" toShortenFQNames="true">
     <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="states" value="app:shape_states=&quot;$cursor$&quot;" description="shape_states" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="endcolor" value="app:shape_end_color=&quot;$cursor$&quot;" description="shape_end_color" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="solidcolor" value="app:shape_solid_color=&quot;$curosr$&quot;" description="shape_solid_color" toReformat="false" toShortenFQNames="true">
+    <variable name="curosr" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="startcolor" value="app:shape_start_color=&quot;$cursor$&quot;" description="shape_start_color" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="strokecolor" value="app:shape_stroke_color=&quot;$curosr$&quot;" description="shape_stroke_color" toReformat="false" toShortenFQNames="true">
+    <variable name="curosr" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />
     </context>
