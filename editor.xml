@@ -12,4 +12,11 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="humin" />
+    <filter name="humin">
+      <pattern index="1" />
+    </filter>
+  </component>
 </application>
