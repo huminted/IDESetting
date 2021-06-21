@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.21354166666666666" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_feedback_dialog.xml" value="0.25679347826086957" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chat_fragment_input.xml" value="0.2644927536231884" />
       </map>
