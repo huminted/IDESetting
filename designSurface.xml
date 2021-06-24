@@ -9,6 +9,7 @@
         <entry key="iMPlugin/src/main/res/layout/bd_im_chat_cell_double_title_advisory.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chat_fragment_input.xml" value="0.2644927536231884" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_college_wait_item.xml" value="0.375" />
+        <entry key="iMPlugin/src/main/res/layout/bd_im_syncwaitdialog.xml" value="0.37182971014492755" />
         <entry key="modules/user/src/main/res/layout/layout_show_switch_env.xml" value="0.33" />
       </map>
     </option>
