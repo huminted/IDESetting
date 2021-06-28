@@ -2,12 +2,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../../layout/custom_preview.xml" value="0.22314814814814815" />
-        <entry key="../../../../../layout/custom_preview.xml" value="0.2361111111111111" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.2462962962962963" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/drawable/bd_im_advisory_feedback_items_divider.xml" value="0.2462962962962963" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/drawable/bd_im_advisory_guide_pop_window_bg.xml" value="0.2462962962962963" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/layout/ad_im_advisory_evaluation_dialog.xml" value="0.33958333333333335" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/layout/ad_im_advisory_guide_pop_window.xml" value="0.27445652173913043" />
+        <entry key="advisory-submodules/advisorysdk/src/main/res/layout/ad_im_advisory_top_bar.xml" value="0.27445652173913043" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/layout/bd_im_advisory_feedback_dialog.xml" value="0.27445652173913043" />
         <entry key="iMPlugin/src/main/res/drawable/bd_im_advisory_feedback_items_divider.xml" value="0.11614583333333334" />
         <entry key="iMPlugin/src/main/res/drawable/bd_im_advisory_guide_pop_window_bg.xml" value="0.39010416666666664" />
