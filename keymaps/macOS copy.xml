@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="SaveAll" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
