@@ -36,6 +36,8 @@
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_notice_txt.xml" value="0.5" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_rebuy_recommend_item.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_forbid_dialog.xml" value="0.375" />
+        <entry key="iMPlugin/src/main/res/layout/bd_im_group_tip_dialog.xml" value="0.375" />
+        <entry key="iMPlugin/src/main/res/layout/bd_im_image_save_dialog.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_layout_long_radio.xml" value="0.40260416666666665" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_syncwaitdialog.xml" value="0.37182971014492755" />
         <entry key="modules/user/src/main/res/layout/layout_show_switch_env.xml" value="0.33" />
