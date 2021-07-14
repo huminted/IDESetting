@@ -22,6 +22,7 @@
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_feedback_dialog.xml" value="0.24646983311938384" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_guide_pop_window.xml" value="0.3310344827586207" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_top_bar.xml" value="0.42407407407407405" />
+        <entry key="iMPlugin/src/main/res/layout/bd_im_alert_select_dialog.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chat_activity_advisory_layout.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chat_cell_double_title_advisory.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chat_fragment_input.xml" value="0.33264675592173015" />
@@ -33,6 +34,7 @@
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_unassign_ask_guide_item.xml" value="0.29981884057971014" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_notice_txt.xml" value="0.5" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_rebuy_recommend_item.xml" value="0.375" />
+        <entry key="iMPlugin/src/main/res/layout/bd_im_forbid_dialog.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_layout_long_radio.xml" value="0.40260416666666665" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_syncwaitdialog.xml" value="0.37182971014492755" />
         <entry key="modules/user/src/main/res/layout/layout_show_switch_env.xml" value="0.33" />
