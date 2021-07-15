@@ -24,6 +24,7 @@
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_feedback_dialog.xml" value="0.24646983311938384" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_fragment_input.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_guide_pop_window.xml" value="0.3310344827586207" />
+        <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_image_tag.xml" value="3.0" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_top_bar.xml" value="0.42407407407407405" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_alert_select_dialog.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chat_activity_advisory_layout.xml" value="0.375" />
@@ -32,7 +33,7 @@
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_college_wait_item.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_evaluation_card_item.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_evaluation_item.xml" value="0.375" />
-        <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_responder_intro.xml" value="0.5" />
+        <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_responder_intro.xml" value="0.5975103734439834" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_to_consult_item.xml" value="0.29981884057971014" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_unassign_ask_guide_item.xml" value="0.29981884057971014" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_notice_txt.xml" value="0.5" />
