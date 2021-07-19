@@ -16,13 +16,18 @@
         <entry key="app/src/main/res/layout/activity_index.xml" value="0.3129528985507246" />
         <entry key="app/src/main/res/layout/activity_main13.xml" value="0.3129528985507246" />
         <entry key="iMPlugin/src/main/res/drawable/bd_im_advisory_audio_video_call_dialog_bg.xml" value="0.39010416666666664" />
+        <entry key="iMPlugin/src/main/res/drawable/bd_im_advisory_change_ask_shape.xml" value="0.39010416666666664" />
+        <entry key="iMPlugin/src/main/res/drawable/bd_im_advisory_evaluation_repurchase_pay_button_bg.xml" value="0.39010416666666664" />
         <entry key="iMPlugin/src/main/res/drawable/bd_im_advisory_feedback_items_divider.xml" value="0.11614583333333334" />
         <entry key="iMPlugin/src/main/res/drawable/bd_im_advisory_guide_pop_window_bg.xml" value="0.39010416666666664" />
         <entry key="iMPlugin/src/main/res/drawable/bd_im_advisory_image_badge_bg.xml" value="0.39010416666666664" />
+        <entry key="iMPlugin/src/main/res/drawable/bd_im_advisory_responder_free.xml" value="0.39010416666666664" />
+        <entry key="iMPlugin/src/main/res/drawable/bd_im_advisory_responder_subsidies.xml" value="0.39010416666666664" />
+        <entry key="iMPlugin/src/main/res/drawable/bd_im_advisory_to_consult_button_bg.xml" value="0.39010416666666664" />
         <entry key="iMPlugin/src/main/res/drawable/bd_im_dialog_button_bg_left_selector.xml" value="0.33240740740740743" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_evaluation_card_container.xml" value="0.4060446780551905" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_evaluation_card_elaluation.xml" value="0.375" />
-        <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_evaluation_card_repurchase.xml" value="0.29981884057971014" />
+        <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_evaluation_card_repurchase.xml" value="0.5" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_evaluation_card_unassign_ask_guide_item.xml" value="0.8262032085561497" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_evaluation_dialog.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_feedback_dialog.xml" value="0.24646983311938384" />
