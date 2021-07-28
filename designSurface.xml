@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.42916666666666664" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/drawable/bd_im_advisory_feedback_items_divider.xml" value="0.2462962962962963" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/drawable/bd_im_advisory_guide_pop_window_bg.xml" value="0.2462962962962963" />
@@ -50,7 +50,7 @@
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_college_wait_item.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_evaluation_card_item.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_evaluation_item.xml" value="0.375" />
-        <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_responder_intro.xml" value="0.5413758723828515" />
+        <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_responder_intro.xml" value="0.9" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_to_consult_item.xml" value="0.29981884057971014" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_advisory_unassign_ask_guide_item.xml" value="0.29981884057971014" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_chating_notice_txt.xml" value="0.5" />
