@@ -75,6 +75,8 @@
         <entry key="iMPlugin/src/main/res/layout/bd_im_image_save_dialog.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_layout_long_radio.xml" value="0.40260416666666665" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_syncwaitdialog.xml" value="0.37182971014492755" />
+        <entry key="iMPlugin/src/main/res/layout/popup_item_horizontal.xml" value="0.375" />
+        <entry key="iMPlugin/src/main/res/layout/popup_item_vertical.xml" value="0.375" />
         <entry key="iMPlugin/src/main/res/layout/popup_vertical.xml" value="0.9" />
         <entry key="modules/user/src/main/res/layout/layout_show_switch_env.xml" value="0.33" />
       </map>
