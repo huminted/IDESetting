@@ -9,6 +9,7 @@
         <entry key="advisory-submodules/advisorysdk/src/main/res/drawable-xxhdpi/ad_im_advisory_progress_button_follow.xml" value="0.2851851851851852" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/drawable-xxhdpi/ad_im_advisory_progress_button_pressed.xml" value="0.2851851851851852" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/drawable-xxhdpi/bd_im_advisory_progress_button_bg.xml" value="0.2935185185185185" />
+        <entry key="advisory-submodules/advisorysdk/src/main/res/drawable/ad_bg_loading.xml" value="0.1" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/drawable/bd_im_advisory_feedback_items_divider.xml" value="0.2462962962962963" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/drawable/bd_im_advisory_follow_loading.xml" value="0.2935185185185185" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/drawable/bd_im_advisory_guide_pop_window_bg.xml" value="0.2462962962962963" />
