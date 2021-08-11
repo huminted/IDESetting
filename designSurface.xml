@@ -29,6 +29,7 @@
         <entry key="advisoryplugin/src/main/res/drawable/bd_im_advisory_msg_repurchase_bg.xml" value="0.32592592592592595" />
         <entry key="advisoryplugin/src/main/res/drawable/bd_im_advisory_progress_button_bg.xml" value="0.32592592592592595" />
         <entry key="advisoryplugin/src/main/res/layout/bd_im_advisory_fragment_input.xml" value="0.3509963768115942" />
+        <entry key="advisoryplugin/src/main/res/layout/bd_im_advisory_image_badge.xml" value="0.3509963768115942" />
         <entry key="advisoryplugin/src/main/res/layout/bd_im_advisory_progress_button.xml" value="0.1" />
         <entry key="advisoryplugin/src/main/res/layout/bd_im_chat_fragment_input.xml" value="0.3509963768115942" />
         <entry key="advisoryplugin/src/main/res/layout/bd_im_chating_advisory_responder_intro.xml" value="0.3509963768115942" />
