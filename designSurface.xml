@@ -25,16 +25,17 @@
         <entry key="advisory-submodules/advisorysdk/src/main/res/layout/ad_layout_item_view_host_detail.xml" value="0.32266666666666666" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/layout/ad_layput_progress_button.xml" value="1.0" />
         <entry key="advisory-submodules/advisorysdk/src/main/res/layout/bd_im_advisory_feedback_dialog.xml" value="0.27445652173913043" />
-        <entry key="advisoryplugin/src/main/res/drawable/bd_im_advisory_follow_loading.xml" value="0.32592592592592595" />
-        <entry key="advisoryplugin/src/main/res/drawable/bd_im_advisory_image_badge_bg.xml" value="0.24583333333333332" />
+        <entry key="advisoryplugin/src/main/res/drawable/bd_im_advisory_follow_loading.xml" value="0.3425925925925926" />
+        <entry key="advisoryplugin/src/main/res/drawable/bd_im_advisory_image_badge_bg.xml" value="0.3425925925925926" />
         <entry key="advisoryplugin/src/main/res/drawable/bd_im_advisory_msg_repurchase_bg.xml" value="0.32592592592592595" />
-        <entry key="advisoryplugin/src/main/res/drawable/bd_im_advisory_progress_button_bg.xml" value="0.32592592592592595" />
+        <entry key="advisoryplugin/src/main/res/drawable/bd_im_advisory_progress_button_bg.xml" value="0.3425925925925926" />
         <entry key="advisoryplugin/src/main/res/layout/bd_im_advisory_fragment_input.xml" value="0.3509963768115942" />
         <entry key="advisoryplugin/src/main/res/layout/bd_im_advisory_guide_pop_window.xml" value="0.3509963768115942" />
-        <entry key="advisoryplugin/src/main/res/layout/bd_im_advisory_image_badge.xml" value="0.3509963768115942" />
-        <entry key="advisoryplugin/src/main/res/layout/bd_im_advisory_progress_button.xml" value="0.3754528985507246" />
+        <entry key="advisoryplugin/src/main/res/layout/bd_im_advisory_image_badge.xml" value="1.1" />
+        <entry key="advisoryplugin/src/main/res/layout/bd_im_advisory_progress_button.xml" value="0.9" />
         <entry key="advisoryplugin/src/main/res/layout/bd_im_chat_activity_advisory_layout.xml" value="0.3509963768115942" />
         <entry key="advisoryplugin/src/main/res/layout/bd_im_chat_fragment_input.xml" value="0.3509963768115942" />
+        <entry key="advisoryplugin/src/main/res/layout/bd_im_chat_msg_alert.xml" value="0.375" />
         <entry key="advisoryplugin/src/main/res/layout/bd_im_chating_advisory_responder_intro.xml" value="0.3509963768115942" />
         <entry key="app/src/main/res/layout/activity_index.xml" value="0.3129528985507246" />
         <entry key="app/src/main/res/layout/activity_main13.xml" value="0.3129528985507246" />
@@ -67,7 +68,7 @@
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_feedback_dialog.xml" value="0.24646983311938384" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_fragment_input.xml" value="0.36251287332646753" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_guide_pop_window.xml" value="0.4992721979621543" />
-        <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_image_badge.xml" value="0.75" />
+        <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_image_badge.xml" value="1.5" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_image_tag.xml" value="3.0" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_progress_button.xml" value="2.0" />
         <entry key="iMPlugin/src/main/res/layout/bd_im_advisory_top_bar.xml" value="0.42407407407407405" />
