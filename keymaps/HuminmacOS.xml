@@ -1,9 +1,24 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="HuminmacOS" parent="Mac OS X 10.5+">
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ChangesView.NewChangeList">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ChangesView.RemoveChangeList">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ChangesView.ShelveSilently">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="ChangesView.UnshelveSilently">
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="Macro.formate">
     <keyboard-shortcut first-keystroke="meta s" />
