@@ -28,6 +28,9 @@
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="SaveAll" />
+  <action id="Vcs.Show.Shelf">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>

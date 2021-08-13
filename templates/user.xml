@@ -18,7 +18,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="te" value="TextUtils.equals($value$, $value1$)" description="text equal" toReformat="false" toShortenFQNames="true">
+  <template name="te" value="TextUtils.equals($value$, $value1$)" description="text equal" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
