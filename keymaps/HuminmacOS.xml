@@ -20,6 +20,13 @@
   <action id="ChangesView.UnshelveSilently">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="Macro.formate">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
