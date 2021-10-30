@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="cmt" value="/**&#10; * $cursor$&#10; */" description="add conment" toReformat="false" toShortenFQNames="true">
+  <template name="cmt" value="/** $cursor$ */" description="add conment" toReformat="false" toShortenFQNames="true">
     <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
