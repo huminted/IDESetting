@@ -6,4 +6,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="bindac" value="@BindTest&#10;public static void start() {&#10;    CoreApplicationKt.startMyActivity(CoreApplication.ctx, $CLASS$.class);&#10;}" description="注解绑定Activity" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
