@@ -18,7 +18,7 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
-    <pattern pattern="humin" />
+    <pattern pattern="todo humin" />
     <filter name="humin">
       <pattern index="1" />
     </filter>
