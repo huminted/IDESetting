@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../advisoryplugin/src/main/java/com/baidu/iknow/advisory/im/utils/PrefConstants.java [advisory-sdk.advisoryplugin]'" />
-    <option name="defaultScopeName" value="File '.../advisoryplugin/src/main/java/com/baidu/iknow/advisory/im/utils/PrefConstants.java [advisory-sdk.advisoryplugin]'" />
-    <option name="SEARCH_SCOPE" value="File '.../advisoryplugin/src/main/java/com/baidu/iknow/advisory/im/utils/PrefConstants.java [advisory-sdk.advisoryplugin]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,7 +12,7 @@
     <mask>*kt</mask>
     <mask>*.png</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
