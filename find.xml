@@ -11,7 +11,7 @@
     <mask>*kt</mask>
     <mask>*.png</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
