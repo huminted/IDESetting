@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="998607f2" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-07T02:20:43.538577Z" />
+        <name value="Xiaomi MIX 2S" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
