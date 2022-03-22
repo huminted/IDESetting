@@ -8,7 +8,7 @@
             <value value="998607f2" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-22T10:25:17.221885Z" />
+        <lastOnlineTime value="2022-03-22T10:38:46.761426Z" />
         <name value="Xiaomi MIX 2S" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -23,6 +23,18 @@
         <name value="HUAWEI COL-AL10" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="024a14c745eba0ad" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-22T10:45:19.345160Z" />
+        <name value="LGE Nexus 5X" />
+        <target value="Android 8.0" />
+        <api value="26" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
