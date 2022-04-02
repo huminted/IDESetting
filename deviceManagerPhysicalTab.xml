@@ -8,7 +8,6 @@
             <value value="9YEDU18B28006704" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-02T07:53:29.303200Z" />
         <name value="HUAWEI COL-AL10" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -20,6 +19,7 @@
             <value value="998607f2" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-04-02T08:06:27.434759Z" />
         <name value="Xiaomi MIX 2S" />
         <target value="Android 10.0" />
         <api value="29" />
