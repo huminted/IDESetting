@@ -5,10 +5,11 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="998607f2" />
+            <value value="9YEDU18B28006704" />
           </Key>
         </key>
-        <name value="Xiaomi MIX 2S" />
+        <lastOnlineTime value="2022-04-02T07:53:29.303200Z" />
+        <name value="HUAWEI COL-AL10" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
@@ -16,11 +17,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="9YEDU18B28006704" />
+            <value value="998607f2" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-02T07:25:37.652942Z" />
-        <name value="HUAWEI COL-AL10" />
+        <name value="Xiaomi MIX 2S" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
