@@ -30,6 +30,10 @@
   <action id="Macro.formate">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta 5" />
@@ -40,6 +44,9 @@
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
