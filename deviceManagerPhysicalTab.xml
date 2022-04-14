@@ -8,7 +8,6 @@
             <value value="9YEDU18B28006704" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-14T02:36:36.041735Z" />
         <name value="HUAWEI COL-AL10" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -45,6 +44,18 @@
         <name value="Device" />
         <target value="Android 1.0" />
         <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8e1f9036" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-14T08:05:49.234355Z" />
+        <name value="Xiaomi Mi Note 3" />
+        <target value="Android 8.1" />
+        <api value="27" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
