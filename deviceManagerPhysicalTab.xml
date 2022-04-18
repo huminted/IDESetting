@@ -67,6 +67,18 @@
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="206451b4" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-18T06:12:10.323602Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
