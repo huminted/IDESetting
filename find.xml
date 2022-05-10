@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="[wenyiwen-230] 增加检查列是否存在判断" />
+    <option name="defaultScopeName" value="[wenyiwen-230] 增加检查列是否存在判断" />
+    <option name="SEARCH_SCOPE" value="[wenyiwen-230] 增加检查列是否存在判断" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
