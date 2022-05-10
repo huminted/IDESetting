@@ -8,7 +8,7 @@
             <value value="UQGDU20811008722" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-10T07:38:26.192546Z" />
+        <lastOnlineTime value="2022-05-10T12:00:29.950891Z" />
         <name value="HUAWEI ELS-AN00" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -31,9 +31,9 @@
             <value value="998607f2" />
           </Key>
         </key>
-        <name value="Xiaomi MIX 2S" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
