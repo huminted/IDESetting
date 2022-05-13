@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
