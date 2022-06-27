@@ -1,0 +1,18 @@
+<templateSet group="Kotlin">
+  <template name="cv" value="class $value$ @JvmOverloads constructor(context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0) : $value$(context, attrs, defStyleAttr) {&#10;" description="kotlin custom view" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="ml" value="Log.d(&quot;humin_debug&quot;,&quot;&quot;)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="cls" value=" private val clickListener = View.OnClickListener { &#10;            &#10;}" description="kotlint clickListener obj" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
