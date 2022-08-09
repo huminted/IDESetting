@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="sampletxt" type="AUTO_DETECTED" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
