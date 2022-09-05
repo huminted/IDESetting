@@ -14,10 +14,10 @@
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
-    <pattern pattern="humin" />
+    <pattern pattern="\b(todo humin)\b.*" />
     <filter name="humin">
-      <pattern index="1" />
+      <pattern index="0" />
+      <pattern index="-1" />
     </filter>
   </component>
 </application>
