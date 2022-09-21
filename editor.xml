@@ -17,7 +17,6 @@
     <pattern pattern="\b(todo humin)\b.*" />
     <filter name="humin">
       <pattern index="0" />
-      <pattern index="-1" />
     </filter>
   </component>
 </application>
