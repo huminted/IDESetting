@@ -8,9 +8,20 @@
             <value value="5909cbac" />
           </Key>
         </key>
-        <name value="Xiaomi MI 8" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="qks8y5ivvcpvzxga" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2006J10C" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
