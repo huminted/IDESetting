@@ -1,7 +1,6 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="USE_HTTP_PROXY" value="true" />
-    <option name="PROXY_HOST" value="10.74.176.8" />
+    <option name="PROXY_HOST" value="10.74.176.8xqxs" />
     <option name="PROXY_PORT" value="11080" />
     <option name="PROXY_EXCEPTIONS" value="localhost,127.0.0.1,localaddress,localdomain.com,internal,corp.kuaishou.com,test.gifshow.com,staging.kuaishou.com" />
   </component>
