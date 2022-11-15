@@ -13,8 +13,8 @@
     <mask>*kt</mask>
     <mask>*.png</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.kts</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
