@@ -8,7 +8,6 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.properties</mask>
     <mask>*</mask>
     <mask>*kt</mask>
     <mask>*.png</mask>
@@ -16,5 +15,6 @@
     <mask>*.kts</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
