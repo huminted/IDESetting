@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kts" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,8 +15,8 @@
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.kt</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.kts</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
