@@ -10,10 +10,10 @@
     <mask>*kt</mask>
     <mask>*.png</mask>
     <mask>*.java</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.kts</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
