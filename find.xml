@@ -15,7 +15,7 @@
     <mask>*.json</mask>
     <mask>*.cpp</mask>
     <mask>*.kts</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
