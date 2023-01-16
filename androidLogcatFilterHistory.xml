@@ -1,15 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="favorites">
+      <list>
+        <option value="package:mine " />
+      </list>
+    </option>
     <option name="nonFavorites">
       <list>
-        <option value="package:com.kwai.xt   fatal" />
-        <option value="package:com.kwai.xt   " />
-        <option value="package:com.kwai.xt   fat" />
-        <option value="package:mine" />
-        <option value="package:com.kwai.xt  " />
-        <option value="package:com.kwai.xt  fat" />
-        <option value="package:com.kwai.xt  fata" />
         <option value="package:com.kwai.xt " />
       </list>
     </option>
