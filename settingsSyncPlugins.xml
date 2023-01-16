@@ -13,6 +13,23 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.nbadal.ktlint">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="idea.plugin.protoeditor">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
