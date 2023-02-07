@@ -3,12 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.png" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*</mask>
     <mask>*kt</mask>
-    <mask>*.png</mask>
     <mask>*.properties</mask>
     <mask>*.kt</mask>
     <mask>*.json</mask>
@@ -17,5 +17,6 @@
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.kts</mask>
+    <mask>*.png</mask>
   </component>
 </application>
