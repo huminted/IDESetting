@@ -5,13 +5,15 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine humin_debug" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine humin_debug" />
+        <option value="package:mine GetDid" />
         <option value="package:mine ANDROID_3270211329a57870" />
         <option value="package:mine MakeupCompose" />
         <option value="package:mine OperatorManager" />
         <option value="package:mine sticker" />
-        <option value="package:mine humin_debug" />
         <option value="package:mine wilmaliu_beauty" />
         <option value="PreloadM2uSync" />
         <option value=" humin_debug" />
