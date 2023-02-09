@@ -7,6 +7,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ANDROID_3270211329a57870" />
         <option value="package:mine MakeupCompose" />
         <option value="package:mine OperatorManager" />
         <option value="package:mine sticker" />
