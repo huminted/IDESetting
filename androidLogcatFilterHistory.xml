@@ -5,8 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine MakeupCompose" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MakeupCompose" />
         <option value="package:mine OperatorManager" />
         <option value="package:mine sticker" />
         <option value="package:mine humin_debug" />
