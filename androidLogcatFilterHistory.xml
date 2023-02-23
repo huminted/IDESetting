@@ -5,8 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine updateMusicVolume" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine updateMusicVolume" />
         <option value="package:mine Template version" />
         <option value="package:mine humin" />
         <option value="package:mine PrivacyChecker agree license" />
