@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine shuangyanpi" />
+    <option name="mostRecentlyUsed" value="package:mine PreloadM2uSync" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine PreloadM2uSync" />
         <option value="package:mine shuangyanpi" />
         <option value="package:mine  " />
         <option value="package:mine updateMusicVolume" />
@@ -27,7 +28,6 @@
         <option value="PreloadM2uSync" />
         <option value=" humin_debug" />
         <option value="package:mine KwaiLottieAnimationView" />
-        <option value="package:com.kwai.xt " />
       </list>
     </option>
   </component>
