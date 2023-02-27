@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:ykit" />
+    <option name="mostRecentlyUsed" value="PreloadM2uSync" />
     <option name="nonFavorites">
       <list>
+        <option value="PreloadM2uSync" />
+        <option value="package:mine save" />
         <option value="package:mine tag:ykit" />
         <option value="package:mine level:info " />
         <option value="package:mine level:error " />
@@ -26,8 +28,6 @@
         <option value="package:mine ANDROID_3270211329a57870" />
         <option value="package:mine MakeupCompose" />
         <option value="package:mine OperatorManager" />
-        <option value="package:mine sticker" />
-        <option value="package:mine wilmaliu_beauty" />
       </list>
     </option>
   </component>
