@@ -5,9 +5,13 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine send" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine send" />
+        <option value="package:mine Command" />
+        <option value="package:mine comm" />
+        <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="PreloadM2uSync" />
         <option value="package:mine save" />
@@ -24,10 +28,6 @@
         <option value="package:mine PrivacyChecker" />
         <option value="package:mine wilmaliu_test" />
         <option value="package:mine humin_debug" />
-        <option value="package:mine GetDid" />
-        <option value="package:mine ANDROID_3270211329a57870" />
-        <option value="package:mine MakeupCompose" />
-        <option value="package:mine OperatorManager" />
       </list>
     </option>
   </component>
