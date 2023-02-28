@@ -5,8 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine level:info " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:info " />
+        <option value="package:minele" />
         <option value="package:mine send" />
         <option value="package:mine Command" />
         <option value="package:mine comm" />
@@ -15,7 +18,6 @@
         <option value="PreloadM2uSync" />
         <option value="package:mine save" />
         <option value="package:mine tag:ykit" />
-        <option value="package:mine level:info " />
         <option value="package:mine PreloadM2uSync" />
         <option value="package:mine shuangyanpi" />
         <option value="package:mine  " />
@@ -26,7 +28,6 @@
         <option value="package:mine PrivacyChecker " />
         <option value="package:mine PrivacyChecker" />
         <option value="package:mine wilmaliu_test" />
-        <option value="package:mine humin_debug" />
       </list>
     </option>
   </component>
