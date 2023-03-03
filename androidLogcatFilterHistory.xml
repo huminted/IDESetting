@@ -5,8 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="humin_debug" />
     <option name="nonFavorites">
       <list>
+        <option value="humin_debug" />
+        <option value="package:mine tag:humindebug" />
         <option value="package:mine level:info " />
         <option value="package:minele" />
         <option value="package:mine send" />
@@ -25,8 +28,6 @@
         <option value="package:mine humin" />
         <option value="package:mine PrivacyChecker agree license" />
         <option value="package:mine PrivacyChecker " />
-        <option value="package:mine PrivacyChecker" />
-        <option value="package:mine wilmaliu_test" />
       </list>
     </option>
   </component>
