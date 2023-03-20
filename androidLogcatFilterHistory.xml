@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine fatal" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine fatal" />
         <option value="package:mine  room" />
         <option value="package:mine  level:error " />
@@ -20,7 +21,6 @@
         <option value="package:mine send" />
         <option value="package:mine Command" />
         <option value="package:mine comm" />
-        <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="PreloadM2uSync" />
         <option value="package:mine save" />
