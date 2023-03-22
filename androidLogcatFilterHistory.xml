@@ -5,13 +5,15 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  level:error " />
+        <option value="package:mine  " />
+        <option value="package:mine level:error " />
+        <option value="package:mine krn" />
         <option value="package:mine" />
         <option value="package:mine fatal" />
         <option value="package:mine  room" />
-        <option value="package:mine  level:error " />
         <option value="package:mine  Fatal signal" />
         <option value="package:mine  fatal" />
         <option value="humin_debug" />
@@ -21,13 +23,10 @@
         <option value="package:mine send" />
         <option value="package:mine Command" />
         <option value="package:mine comm" />
-        <option value="package:mine level:error " />
         <option value="PreloadM2uSync" />
         <option value="package:mine save" />
         <option value="package:mine tag:ykit" />
         <option value="package:mine PreloadM2uSync" />
-        <option value="package:mine shuangyanpi" />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
