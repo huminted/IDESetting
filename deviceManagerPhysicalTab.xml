@@ -56,6 +56,17 @@
         <target value="Android 6.0" />
         <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="206451b4" />
+          </Key>
+        </key>
+        <name value="ONEPLUS A5000" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
