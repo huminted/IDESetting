@@ -7,6 +7,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="ChangesView.NewChangeList">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -43,6 +46,7 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>

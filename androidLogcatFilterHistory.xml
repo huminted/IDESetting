@@ -1,0 +1,34 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="package:mine " />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:mine draft" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine draft" />
+        <option value="package:mine le" />
+        <option value="package:mine level:info " />
+        <option value="package:mine  level:error " />
+        <option value="package:mine  " />
+        <option value="package:mine level:error " />
+        <option value="package:mine krn" />
+        <option value="package:mine" />
+        <option value="package:mine fatal" />
+        <option value="package:mine  room" />
+        <option value="package:mine  Fatal signal" />
+        <option value="package:mine  fatal" />
+        <option value="humin_debug" />
+        <option value="package:mine tag:humindebug" />
+        <option value="package:minele" />
+        <option value="package:mine send" />
+        <option value="package:mine Command" />
+        <option value="package:mine comm" />
+        <option value="PreloadM2uSync" />
+        <option value="package:mine save" />
+      </list>
+    </option>
+  </component>
+</application>
