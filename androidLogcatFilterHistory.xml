@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine draft" />
+    <option name="mostRecentlyUsed" value="tag:humin_debug " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:humin_debug " />
+        <option value="package:mine tag:humin_debug" />
         <option value="package:mine draft" />
         <option value="package:mine le" />
         <option value="package:mine level:info " />
@@ -26,8 +28,6 @@
         <option value="package:mine send" />
         <option value="package:mine Command" />
         <option value="package:mine comm" />
-        <option value="PreloadM2uSync" />
-        <option value="package:mine save" />
       </list>
     </option>
   </component>
