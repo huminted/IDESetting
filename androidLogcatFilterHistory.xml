@@ -5,9 +5,14 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag=:humin_debug" />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
+        <option value="package:mine level:warn com.kwai.m2u.edit." />
+        <option value="package:mine level:warn XTDraftUploader" />
+        <option value="package:mine XTDraftUploader" />
+        <option value="package:mine tag=:TAG" />
         <option value="package:mine tag=:humin_debug" />
         <option value="package:mine" />
         <option value="package:mine wilmaliu_tag" />
@@ -23,11 +28,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine krn" />
         <option value="package:mine fatal" />
-        <option value="package:mine  room" />
-        <option value="package:mine  Fatal signal" />
-        <option value="package:mine  fatal" />
-        <option value="humin_debug" />
-        <option value="package:mine tag:humindebug" />
       </list>
     </option>
   </component>
