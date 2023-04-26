@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:info " />
+    <option name="mostRecentlyUsed" value="package:mine wilmaliu_tag" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine wilmaliu_tag" />
         <option value="package:mine level:info " />
         <option value="package:mine level:info httpEndpointList" />
         <option value="package:mine level:info token" />
@@ -27,7 +28,6 @@
         <option value="humin_debug" />
         <option value="package:mine tag:humindebug" />
         <option value="package:minele" />
-        <option value="package:mine send" />
       </list>
     </option>
   </component>
