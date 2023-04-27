@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine KSUploaderKit" />
+    <option name="mostRecentlyUsed" value="XTDraftUploader" />
     <option name="nonFavorites">
       <list>
+        <option value="XTDraftUploader" />
         <option value="package:mine KSUploaderKit" />
         <option value="package:mine update" />
         <option value="20230427143256557" />
@@ -27,7 +28,6 @@
         <option value="package:mine tag=:humin_debug" />
         <option value="package:mine" />
         <option value="package:mine wilmaliu_tag" />
-        <option value="package:mine level:info " />
       </list>
     </option>
   </component>
