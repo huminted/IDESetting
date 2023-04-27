@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:XTDraftUploader" />
+    <option name="mostRecentlyUsed" value="tag:DraftFileUploader" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DraftFileUploader" />
         <option value="tag:XTDraftUploader" />
         <option value="package:mine XTDraftUploader" />
         <option value="package:mine level:warn " />
@@ -27,7 +28,6 @@
         <option value="package:mine  level:error " />
         <option value="package:mine  " />
         <option value="package:mine level:error " />
-        <option value="package:mine krn" />
       </list>
     </option>
   </component>
