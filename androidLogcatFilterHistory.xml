@@ -5,11 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="onExceptionHappened" />
         <option value="XTDraftUploader" />
+        <option value="onExceptionHappened" />
         <option value="package:mine KSUploaderKit" />
         <option value="package:mine update" />
         <option value="20230427143256557" />
