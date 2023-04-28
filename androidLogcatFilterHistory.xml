@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine  tag:humin_debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:humin_debug " />
         <option value="package:mine tag:humin_debug " />
         <option value="XTDraftUploader" />
         <option value="onExceptionHappened" />
@@ -27,7 +28,6 @@
         <option value="package:mine level:warn com.kwai.m2u.edit." />
         <option value="package:mine level:warn XTDraftUploader" />
         <option value="package:mine tag=:TAG" />
-        <option value="package:mine tag=:humin_debug" />
       </list>
     </option>
   </component>
