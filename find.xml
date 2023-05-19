@@ -19,7 +19,7 @@
     <mask>*.png</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
-    <mask>*.kts</mask>
     <mask>*.java</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
