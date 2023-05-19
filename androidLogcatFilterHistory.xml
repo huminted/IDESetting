@@ -5,29 +5,28 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:humin_debug " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:humin_debug " />
-        <option value="package:mine tag:humin_debug" />
-        <option value="package:mine draft" />
-        <option value="package:mine le" />
-        <option value="package:mine level:info " />
-        <option value="package:mine  level:error " />
         <option value="package:mine  " />
-        <option value="package:mine level:error " />
-        <option value="package:mine krn" />
-        <option value="package:mine" />
-        <option value="package:mine fatal" />
-        <option value="package:mine  room" />
-        <option value="package:mine  Fatal signal" />
-        <option value="package:mine  fatal" />
-        <option value="humin_debug" />
-        <option value="package:mine tag:humindebug" />
-        <option value="package:minele" />
-        <option value="package:mine send" />
-        <option value="package:mine Command" />
-        <option value="package:mine comm" />
+        <option value="package:mine  level:error " />
+        <option value="package:mine  tag:XTDraftUploader " />
+        <option value="package:mine  tag:humin_debug " />
+        <option value="package:mine tag:humin_debug " />
+        <option value="XTDraftUploader" />
+        <option value="onExceptionHappened" />
+        <option value="package:mine KSUploaderKit" />
+        <option value="package:mine update" />
+        <option value="20230427143256557" />
+        <option value="KSUploaderKit" />
+        <option value="DraftFileUploader" />
+        <option value="reason:" />
+        <option value="postUploadFailedAndRelease" />
+        <option value="startUploadFile" />
+        <option value="onComplete-&gt;" />
+        <option value="tag:DraftFileUploader" />
+        <option value="tag:XTDraftUploader" />
+        <option value="package:mine XTDraftUploader" />
+        <option value="package:mine level:warn " />
       </list>
     </option>
   </component>

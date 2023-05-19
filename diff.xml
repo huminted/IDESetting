@@ -21,6 +21,29 @@
     </option>
   </component>
   <component name="ExternalDiffSettings">
+    <option name="EXTERNAL_TOOLS">
+      <map>
+        <entry key="DIFF_TOOL">
+          <value>
+            <list>
+              <ExternalTool>
+                <option name="argumentPattern" value="%1 %2 %3" />
+                <option name="name" value="Sourcetree" />
+                <option name="programPath" value="/Applications/Sourcetree.app/Contents/MacOS/Sourcetree" />
+              </ExternalTool>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="EXTERNAL_TOOLS_CONFIGURATION">
+      <list>
+        <ExternalToolConfiguration>
+          <option name="diffToolName" value="Sourcetree" />
+          <option name="fileTypeName" value="Kotlin" />
+        </ExternalToolConfiguration>
+      </list>
+    </option>
     <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
   <component name="TextDiffSettings">
