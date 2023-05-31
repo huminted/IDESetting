@@ -5,9 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine SplashActivity" />
+    <option name="mostRecentlyUsed" value="dsads" />
     <option name="nonFavorites">
       <list>
+        <option value="dsads" />
+        <option value="humin_debug" />
+        <option value="package:mine tag~:humin" />
         <option value="package:mine SplashActivity" />
         <option value="SplashActivity" />
         <option value="package:mine  " />
@@ -25,9 +28,6 @@
         <option value="reason:" />
         <option value="postUploadFailedAndRelease" />
         <option value="startUploadFile" />
-        <option value="onComplete-&gt;" />
-        <option value="tag:DraftFileUploader" />
-        <option value="tag:XTDraftUploader" />
       </list>
     </option>
   </component>
