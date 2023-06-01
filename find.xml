@@ -15,9 +15,9 @@
     <mask>*.cpp</mask>
     <mask>*.png</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.kts</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
