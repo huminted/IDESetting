@@ -63,8 +63,9 @@
             <value value="206451b4" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="ONEPLUS A5000" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
