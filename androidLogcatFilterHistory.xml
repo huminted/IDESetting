@@ -7,6 +7,9 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Gorgeous" />
+        <option value="package:mine gor" />
+        <option value="package:mine IWesterosService" />
         <option value="skinton" />
         <option value="SkinTone" />
         <option value="IWesterosService" />
@@ -24,9 +27,6 @@
         <option value="dsads" />
         <option value="humin_debug" />
         <option value="package:mine tag~:humin" />
-        <option value="package:mine SplashActivity" />
-        <option value="SplashActivity" />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
