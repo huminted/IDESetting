@@ -5,8 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine skintone" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine skintone" />
+        <option value="package:mine skinton" />
         <option value="package:mine Gorgeous" />
         <option value="package:mine gor" />
         <option value="package:mine IWesterosService" />
@@ -25,8 +28,6 @@
         <option value="relight" />
         <option value="ai relight" />
         <option value="dsads" />
-        <option value="humin_debug" />
-        <option value="package:mine tag~:humin" />
       </list>
     </option>
   </component>
