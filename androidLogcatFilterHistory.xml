@@ -5,9 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="Skintone" />
+    <option name="mostRecentlyUsed" value="skinton" />
     <option name="nonFavorites">
       <list>
+        <option value="skinton" />
+        <option value="SkinTone" />
+        <option value="IWesterosService" />
         <option value="Skintone" />
         <option value="create " />
         <option value="create" />
@@ -25,9 +28,6 @@
         <option value="package:mine SplashActivity" />
         <option value="SplashActivity" />
         <option value="package:mine  " />
-        <option value="package:mine  level:error " />
-        <option value="package:mine  tag:XTDraftUploader " />
-        <option value="package:mine  tag:humin_debug " />
       </list>
     </option>
   </component>
