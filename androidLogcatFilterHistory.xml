@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="light" />
+    <option name="mostRecentlyUsed" value="AI" />
     <option name="nonFavorites">
       <list>
+        <option value="AI" />
         <option value="light" />
         <option value="package:mine" />
         <option value="package:mine relight" />
@@ -27,7 +28,6 @@
         <option value="package:mine tag:humin_debug " />
         <option value="XTDraftUploader" />
         <option value="onExceptionHappened" />
-        <option value="package:mine KSUploaderKit" />
       </list>
     </option>
   </component>
