@@ -5,15 +5,16 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine humin_debug" />
+    <option name="mostRecentlyUsed" value="package:mine IWesterosService" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine IWesterosService" />
+        <option value="package:mine We" />
         <option value="package:mine humin_debug" />
         <option value="package:mine skintone" />
         <option value="package:mine skinton" />
         <option value="package:mine Gorgeous" />
         <option value="package:mine gor" />
-        <option value="package:mine IWesterosService" />
         <option value="skinton" />
         <option value="SkinTone" />
         <option value="IWesterosService" />
@@ -27,7 +28,6 @@
         <option value="package:mine relight" />
         <option value="ai·" />
         <option value="relight" />
-        <option value="ai relight" />
       </list>
     </option>
   </component>
