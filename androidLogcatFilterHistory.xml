@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="GSAIRelighting" />
+    <option name="mostRecentlyUsed" value="light-pos-y" />
     <option name="nonFavorites">
       <list>
+        <option value="light-pos-y" />
         <option value="GSAIRelighting" />
         <option value="package:mine IWesterosService" />
         <option value="package:mine We" />
@@ -27,7 +28,6 @@
         <option value="light" />
         <option value="package:mine" />
         <option value="package:mine relight" />
-        <option value="ai·" />
       </list>
     </option>
   </component>
