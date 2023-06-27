@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="setInputBimap" />
     <option name="nonFavorites">
       <list>
+        <option value="setInputBimap" />
         <option value="package:mine" />
         <option value="package:mine AILightDataManager:size" />
         <option value="size" />
@@ -27,7 +28,6 @@
         <option value="skinton" />
         <option value="SkinTone" />
         <option value="IWesterosService" />
-        <option value="Skintone" />
       </list>
     </option>
   </component>
