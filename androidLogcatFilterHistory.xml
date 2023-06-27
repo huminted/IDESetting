@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine XTPreviewExtra" />
+    <option name="mostRecentlyUsed" value="package:mine  set ai relighting intensity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  set ai relighting intensity" />
         <option value="package:mine XTPreviewExtra" />
         <option value="light-pos-y" />
         <option value="GSAIRelighting" />
@@ -27,7 +28,6 @@
         <option value="ai" />
         <option value="AI" />
         <option value="light" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
