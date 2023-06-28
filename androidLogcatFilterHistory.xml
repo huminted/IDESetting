@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="onAnimationEnd" />
+    <option name="mostRecentlyUsed" value="humin" />
     <option name="nonFavorites">
       <list>
+        <option value="humin" />
         <option value="onAnimationEnd" />
         <option value="setInputBimap" />
         <option value="package:mine" />
@@ -27,7 +28,6 @@
         <option value="package:mine Gorgeous" />
         <option value="package:mine gor" />
         <option value="skinton" />
-        <option value="SkinTone" />
       </list>
     </option>
   </component>
