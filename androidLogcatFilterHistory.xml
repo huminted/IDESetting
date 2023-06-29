@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="child" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="child" />
         <option value="humin" />
         <option value="onAnimationEnd" />
@@ -27,7 +28,6 @@
         <option value="package:mine skintone" />
         <option value="package:mine skinton" />
         <option value="package:mine Gorgeous" />
-        <option value="package:mine gor" />
       </list>
     </option>
   </component>
