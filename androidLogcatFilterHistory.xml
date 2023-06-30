@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine ykit" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ykit" />
+        <option value="package:mineykit" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="child" />
@@ -26,8 +28,6 @@
         <option value="package:mine We" />
         <option value="package:mine humin_debug" />
         <option value="package:mine skintone" />
-        <option value="package:mine skinton" />
-        <option value="package:mine Gorgeous" />
       </list>
     </option>
   </component>
