@@ -9,6 +9,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:mine sin" />
         <option value="package:mine ykit" />
         <option value="package:mineykit" />
         <option value="package:mine level:error " />
@@ -27,7 +28,6 @@
         <option value="package:mine IWesterosService" />
         <option value="package:mine We" />
         <option value="package:mine humin_debug" />
-        <option value="package:mine skintone" />
       </list>
     </option>
   </component>
