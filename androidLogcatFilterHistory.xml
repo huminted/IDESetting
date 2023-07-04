@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value=" " />
+    <option name="mostRecentlyUsed" value="begin " />
     <option name="nonFavorites">
       <list>
+        <option value="begin " />
+        <option value=" beg" />
         <option value=" " />
         <option value="package:mine releaseAsync" />
         <option value="package:mine" />
@@ -26,8 +28,6 @@
         <option value="package:mine  set ai relighting intensity" />
         <option value="package:mine XTPreviewExtra" />
         <option value="light-pos-y" />
-        <option value="GSAIRelighting" />
-        <option value="package:mine IWesterosService" />
       </list>
     </option>
   </component>
