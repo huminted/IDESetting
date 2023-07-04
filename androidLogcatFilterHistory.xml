@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value=" " />
     <option name="nonFavorites">
       <list>
+        <option value=" " />
+        <option value="package:mine releaseAsync" />
         <option value="package:mine" />
         <option value="package:mine sin" />
         <option value="package:mine ykit" />
@@ -26,8 +28,6 @@
         <option value="light-pos-y" />
         <option value="GSAIRelighting" />
         <option value="package:mine IWesterosService" />
-        <option value="package:mine We" />
-        <option value="package:mine humin_debug" />
       </list>
     </option>
   </component>
