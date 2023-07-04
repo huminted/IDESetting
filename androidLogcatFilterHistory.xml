@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="Kanas" />
+    <option name="mostRecentlyUsed" value="package:mine enableAdjust" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine enableAdjust" />
         <option value="Kanas" />
         <option value="Report" />
         <option value="begin " />
@@ -27,7 +28,6 @@
         <option value="size" />
         <option value="AILightDataManager" />
         <option value="package:mine AILightDataManager" />
-        <option value="package:mine  set ai relighting intensity" />
       </list>
     </option>
   </component>
