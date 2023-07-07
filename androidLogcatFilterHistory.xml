@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="enableAdjust" />
+    <option name="mostRecentlyUsed" value="package:mine signal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine signal" />
+        <option value="package:mine sig" />
         <option value="enableAdjust" />
         <option value="AdjustFeature" />
         <option value="package:mine enableAdjust" />
@@ -26,8 +28,6 @@
         <option value="humin" />
         <option value="onAnimationEnd" />
         <option value="setInputBimap" />
-        <option value="package:mine AILightDataManager:size" />
-        <option value="size" />
       </list>
     </option>
   </component>
