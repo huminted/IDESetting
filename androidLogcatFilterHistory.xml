@@ -5,14 +5,15 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine AIRelightingLampShade" />
+    <option name="mostRecentlyUsed" value="package:mine relight" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine relight" />
+        <option value="package:mine AIRelighting" />
         <option value="package:mine AIRelightingLampShade" />
         <option value="package:mine AIRe" />
         <option value="package:mine GSAIRelighting" />
         <option value="package:mine AI" />
-        <option value="package:mine relight" />
         <option value="package:mine IWesterosService" />
         <option value="package:mine we" />
         <option value="package:mine signal" />
@@ -27,7 +28,6 @@
         <option value=" " />
         <option value="package:mine releaseAsync" />
         <option value="package:mine" />
-        <option value="package:mine sin" />
       </list>
     </option>
   </component>
