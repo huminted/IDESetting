@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine relight" />
+    <option name="mostRecentlyUsed" value="package:mine  light-dir" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  light-dir" />
+        <option value="package:mine  relighting" />
         <option value="package:mine relight" />
         <option value="package:mine AIRelighting" />
         <option value="package:mine AIRelightingLampShade" />
@@ -26,8 +28,6 @@
         <option value="begin " />
         <option value=" beg" />
         <option value=" " />
-        <option value="package:mine releaseAsync" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
