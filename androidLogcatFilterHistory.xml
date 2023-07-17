@@ -5,11 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  light-dir-x" />
+    <option name="mostRecentlyUsed" value="package:mine  relighting" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  light-dir-x" />
         <option value="package:mine  relighting" />
+        <option value="package:mine  light-dir-x" />
         <option value="package:mine  light-dir" />
         <option value="package:mine relight" />
         <option value="package:mine AIRelighting" />
