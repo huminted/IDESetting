@@ -5,9 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  relighting" />
+    <option name="mostRecentlyUsed" value="package:mine  humin_debug" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  humin_debug" />
+        <option value="package:mine  AI" />
+        <option value="package:mine  initWithConfig" />
         <option value="package:mine  relighting" />
         <option value="package:mine  light-dir-x" />
         <option value="package:mine  light-dir" />
@@ -25,9 +28,6 @@
         <option value="AdjustFeature" />
         <option value="package:mine enableAdjust" />
         <option value="Kanas" />
-        <option value="Report" />
-        <option value="begin " />
-        <option value=" beg" />
       </list>
     </option>
   </component>
