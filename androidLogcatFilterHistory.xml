@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine AIRelightingLampShade" />
+    <option name="mostRecentlyUsed" value="package:mine tag:humin_debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:humin_debug " />
         <option value="package:mine AIRelightingLampShade" />
         <option value="package:mine relighting" />
         <option value="package:mine GSAIRelighting" />
@@ -27,7 +28,6 @@
         <option value="package:mine  light-dir" />
         <option value="package:mine relight" />
         <option value="package:mine AIRelighting" />
-        <option value="package:mine AIRe" />
       </list>
     </option>
   </component>
