@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:humin_debug" />
+    <option name="mostRecentlyUsed" value="package:mine MyTag" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MyTag" />
+        <option value="package:mine" />
         <option value="package:mine tag:humin_debug" />
         <option value="package:mine hu" />
         <option value="package:mine tag:humin_debug " />
@@ -26,8 +28,6 @@
         <option value="package:mine  AI" />
         <option value="package:mine  initWithConfig" />
         <option value="package:mine  relighting" />
-        <option value="package:mine  light-dir-x" />
-        <option value="package:mine  light-dir" />
       </list>
     </option>
   </component>
