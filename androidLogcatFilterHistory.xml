@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine did" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine did" />
         <option value="package:mine is:crash " />
         <option value="package:mine AIRelightingLampShade" />
         <option value="package:mine relighting" />
@@ -27,7 +28,6 @@
         <option value="package:mine  " />
         <option value="package:mine  aire" />
         <option value="package:mine  humin_debug" />
-        <option value="package:mine  AI" />
       </list>
     </option>
   </component>
