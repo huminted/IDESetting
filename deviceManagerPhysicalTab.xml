@@ -16,6 +16,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="LKX0218316002160" />
+          </Key>
+        </key>
+        <name value="HUAWEI BLA-AL00" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="qks8y5ivvcpvzxga" />
           </Key>
         </key>
@@ -61,6 +72,17 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="206451b4" />
+          </Key>
+        </key>
+        <name value="ONEPLUS A5000" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="(no serial number)" />
           </Key>
         </key>
         <name value="Device" />

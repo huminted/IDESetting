@@ -13,13 +13,13 @@
     <mask>*</mask>
     <mask>*kt</mask>
     <mask>*.properties</mask>
-    <mask>*.kt</mask>
-    <mask>*.json</mask>
     <mask>*.cpp</mask>
     <mask>*.png</mask>
-    <mask>*.gradle</mask>
+    <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.kts</mask>
+    <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
