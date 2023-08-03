@@ -5,8 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine mmux" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine mmux" />
         <option value="package:mine level:error " />
         <option value="package:mine MainActivity" />
         <option value="package:mine l" />
@@ -26,7 +28,6 @@
         <option value="package:mine sin" />
         <option value="package:mine ykit" />
         <option value="package:mineykit" />
-        <option value="child" />
       </list>
     </option>
   </component>
