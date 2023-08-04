@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error ai-relighting" />
+    <option name="mostRecentlyUsed" value="package:mine GSAIRelighting" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine GSAIRelighting" />
         <option value="package:mine level:error ai-relighting" />
         <option value="package:mine level:error ai_re" />
         <option value="package:mine level:error " />
@@ -27,7 +28,6 @@
         <option value="Report" />
         <option value="begin " />
         <option value=" beg" />
-        <option value=" " />
       </list>
     </option>
   </component>
