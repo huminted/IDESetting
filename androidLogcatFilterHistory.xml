@@ -5,16 +5,19 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine GSAIRelighting" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="ai-relighting" />
+        <option value="ai-relighting:updateLandmarks3D " />
+        <option value="package:mine ai-relighting" />
+        <option value="package:mine ai-" />
         <option value="package:mine GSAIRelighting" />
         <option value="package:mine level:error ai-relighting" />
         <option value="package:mine level:error ai_re" />
         <option value="package:mine level:error " />
         <option value="package:mine  ai-relighting" />
         <option value="package:mine  level:error " />
-        <option value="package:mine ai-relighting" />
         <option value="package:mine mmux" />
         <option value="package:mine MainActivity" />
         <option value="package:mine l" />
@@ -25,9 +28,6 @@
         <option value="AdjustFeature" />
         <option value="package:mine enableAdjust" />
         <option value="Kanas" />
-        <option value="Report" />
-        <option value="begin " />
-        <option value=" beg" />
       </list>
     </option>
   </component>
