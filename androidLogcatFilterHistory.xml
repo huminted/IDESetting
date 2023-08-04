@@ -5,12 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  level:error " />
+    <option name="mostRecentlyUsed" value="package:mine  ai-relighting" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  ai-relighting" />
         <option value="package:mine  level:error " />
         <option value="package:mine ai-relighting" />
-        <option value="package:mine  ai-relighting" />
         <option value="package:mine level:error " />
         <option value="package:mine mmux" />
         <option value="package:mine MainActivity" />
