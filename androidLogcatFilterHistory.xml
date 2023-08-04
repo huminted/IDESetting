@@ -5,11 +5,14 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine mmux" />
+    <option name="mostRecentlyUsed" value="package:mine  level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine mmux" />
+        <option value="package:mine  level:error " />
+        <option value="package:mine ai-relighting" />
+        <option value="package:mine  ai-relighting" />
         <option value="package:mine level:error " />
+        <option value="package:mine mmux" />
         <option value="package:mine MainActivity" />
         <option value="package:mine l" />
         <option value="package:mine level:error y" />
@@ -25,9 +28,6 @@
         <option value=" " />
         <option value="package:mine releaseAsync" />
         <option value="package:mine" />
-        <option value="package:mine sin" />
-        <option value="package:mine ykit" />
-        <option value="package:mineykit" />
       </list>
     </option>
   </component>
