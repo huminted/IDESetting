@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="Gorgeous" />
     <option name="nonFavorites">
       <list>
+        <option value="Gorgeous" />
         <option value="package:mine level:error " />
         <option value="is:crash " />
         <option value="gorgeous" />
@@ -27,7 +28,6 @@
         <option value="range" />
         <option value="package:mine range " />
         <option value="package:mine Gorgeous yaw" />
-        <option value="package:mine Gorgeous x:" />
       </list>
     </option>
   </component>
