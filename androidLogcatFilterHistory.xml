@@ -5,9 +5,16 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine Gorgeous " />
+    <option name="mostRecentlyUsed" value="==" />
     <option name="nonFavorites">
       <list>
+        <option value="==" />
+        <option value="ai-relighting" />
+        <option value="ai-re" />
+        <option value="ai" />
+        <option value="range:L" />
+        <option value="range" />
+        <option value="package:mine range " />
         <option value="package:mine Gorgeous " />
         <option value="package:mine Gorgeous yaw" />
         <option value="package:mine Gorgeous x:" />
@@ -21,13 +28,6 @@
         <option value="gorgeous" />
         <option value="face points" />
         <option value="package:mine IWesterosService|D:Gorgeous" />
-        <option value="package:mine  ai-relighting" />
-        <option value="package:mine  updateFaceData" />
-        <option value="package:mine  " />
-        <option value="package:mine  updateLandmarks3D" />
-        <option value="package:mine level:error ai-relighting" />
-        <option value="package:mine level:error " />
-        <option value="ai-relighting" />
       </list>
     </option>
   </component>
