@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="JAVA Face Buffer" />
+    <option name="mostRecentlyUsed" value=" package:mine  level:error " />
     <option name="nonFavorites">
       <list>
+        <option value=" package:mine  level:error " />
+        <option value="level:error " />
         <option value="JAVA Face Buffer" />
         <option value="package:mine Invalid " />
         <option value="package:mine gorgeous " />
@@ -18,7 +20,6 @@
         <option value="is:crash " />
         <option value="gorgeous" />
         <option value="go" />
-        <option value="level:error " />
         <option value="Java Face Buffer" />
         <option value="Gorgeous " />
         <option value="package:mine  " />
@@ -27,7 +28,6 @@
         <option value="Invalid Face Buffer Size " />
         <option value="==" />
         <option value="ai-relighting" />
-        <option value="ai-re" />
       </list>
     </option>
   </component>
