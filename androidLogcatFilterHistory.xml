@@ -5,9 +5,14 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine face points" />
+    <option name="mostRecentlyUsed" value="package:mine Gorgeous " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Gorgeous " />
+        <option value="package:mine Gorgeous x:" />
+        <option value="package:mine pitch" />
+        <option value="package:mine roll" />
+        <option value="package:mine yaw" />
         <option value="package:mine face points" />
         <option value="level:error face points" />
         <option value="level:error fac" />
@@ -23,11 +28,6 @@
         <option value="package:mine level:error " />
         <option value="ai-relighting" />
         <option value="ai-relighting:updateLandmarks3D " />
-        <option value="package:mine ai-relighting" />
-        <option value="package:mine ai-" />
-        <option value="package:mine GSAIRelighting" />
-        <option value="package:mine level:error ai_re" />
-        <option value="package:mine  level:error " />
       </list>
     </option>
   </component>
