@@ -5,13 +5,18 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine Gorgeous " />
+    <option name="mostRecentlyUsed" value="gorgeous" />
     <option name="nonFavorites">
       <list>
+        <option value="gorgeous" />
+        <option value="go" />
+        <option value="level:error " />
+        <option value="Java Face Buffer" />
+        <option value="Gorgeous " />
+        <option value="package:mine  " />
         <option value="package:mine Gorgeous " />
         <option value="Invalid Face Buffer Size" />
         <option value="Invalid Face Buffer Size " />
-        <option value="gorgeous" />
         <option value="==" />
         <option value="ai-relighting" />
         <option value="ai-re" />
@@ -23,11 +28,6 @@
         <option value="package:mine Gorgeous x:" />
         <option value="package:mine pitch" />
         <option value="package:mine roll" />
-        <option value="package:mine yaw" />
-        <option value="package:mine face points" />
-        <option value="level:error face points" />
-        <option value="level:error fac" />
-        <option value="gorgeous " />
       </list>
     </option>
   </component>
