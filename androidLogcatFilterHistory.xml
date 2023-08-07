@@ -5,9 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="==" />
+    <option name="mostRecentlyUsed" value="Invalid Face Buffer Size" />
     <option name="nonFavorites">
       <list>
+        <option value="Invalid Face Buffer Size" />
+        <option value="Invalid Face Buffer Size " />
+        <option value="gorgeous" />
         <option value="==" />
         <option value="ai-relighting" />
         <option value="ai-re" />
@@ -25,9 +28,6 @@
         <option value="level:error face points" />
         <option value="level:error fac" />
         <option value="gorgeous " />
-        <option value="gorgeous" />
-        <option value="face points" />
-        <option value="package:mine IWesterosService|D:Gorgeous" />
       </list>
     </option>
   </component>
