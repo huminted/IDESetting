@@ -5,12 +5,13 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="Gorgeous" />
     <option name="nonFavorites">
       <list>
+        <option value="Gorgeous" />
+        <option value="geo" />
         <option value="package:mine level:error " />
         <option value=" gorgeous" />
-        <option value="Gorgeous" />
         <option value="ai-relighting" />
         <option value="ai" />
         <option value="ai-relight" />
@@ -27,7 +28,6 @@
         <option value="package:mine  updateFaceData" />
         <option value="package:mine  " />
         <option value="package:mine fatal" />
-        <option value="is:stacktrace " />
       </list>
     </option>
   </component>
