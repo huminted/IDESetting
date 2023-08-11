@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="Gorgeous" />
+    <option name="mostRecentlyUsed" value=" gorgeous" />
     <option name="nonFavorites">
       <list>
+        <option value=" gorgeous" />
         <option value="Gorgeous" />
         <option value="ai-relighting" />
         <option value="ai" />
@@ -27,7 +28,6 @@
         <option value="package:mine  " />
         <option value="package:mine fatal" />
         <option value="is:stacktrace " />
-        <option value="is:crash " />
       </list>
     </option>
   </component>
