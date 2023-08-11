@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value=" gorgeous" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value=" gorgeous" />
         <option value="Gorgeous" />
         <option value="ai-relighting" />
@@ -17,7 +18,6 @@
         <option value="ai-relighting " />
         <option value=" ai-relighting " />
         <option value="package:mine ai-" />
-        <option value="package:mine level:error " />
         <option value="package:mine ai-relighting" />
         <option value="package:mine Gorgeous" />
         <option value="package:mine ai-re" />
