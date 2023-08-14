@@ -5,11 +5,18 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="humin_debug" />
     <option name="nonFavorites">
       <list>
+        <option value="humin_debug" />
         <option value="Gorgeous" />
+        <option value="package:mine humin_debug" />
+        <option value="package:mine Gorgeous" />
         <option value="geo" />
+        <option value="ga" />
+        <option value="tag=:humin_debug" />
+        <option value="humin_de" />
+        <option value="humin" />
         <option value="package:mine level:error " />
         <option value=" gorgeous" />
         <option value="ai-relighting" />
@@ -20,14 +27,7 @@
         <option value=" ai-relighting " />
         <option value="package:mine ai-" />
         <option value="package:mine ai-relighting" />
-        <option value="package:mine Gorgeous" />
         <option value="package:mine ai-re" />
-        <option value="level:error package:mine " />
-        <option value="package:mine" />
-        <option value="package:mine is:crash " />
-        <option value="package:mine  updateFaceData" />
-        <option value="package:mine  " />
-        <option value="package:mine fatal" />
       </list>
     </option>
   </component>
