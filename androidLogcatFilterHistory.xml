@@ -5,11 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="Gorgeous" />
+    <option name="mostRecentlyUsed" value="humin_debug" />
     <option name="nonFavorites">
       <list>
-        <option value="Gorgeous" />
         <option value="humin_debug" />
+        <option value="humin" />
+        <option value="Gorgeous" />
         <option value=" Gorgeous" />
         <option value="package:mine Gorgeous" />
         <option value="gorgeous" />
@@ -19,7 +20,6 @@
         <option value="ga" />
         <option value="tag=:humin_debug" />
         <option value="humin_de" />
-        <option value="humin" />
         <option value="package:mine level:error " />
         <option value=" gorgeous" />
         <option value="ai-relighting" />
