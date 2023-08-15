@@ -9,6 +9,7 @@
     <option name="nonFavorites">
       <list>
         <option value="Gorgeous" />
+        <option value="loadResources" />
         <option value="humin_debug" />
         <option value="humin" />
         <option value=" Gorgeous" />
@@ -27,7 +28,6 @@
         <option value="ai-relight" />
         <option value="ai-re" />
         <option value="ai-relighting " />
-        <option value=" ai-relighting " />
       </list>
     </option>
   </component>
