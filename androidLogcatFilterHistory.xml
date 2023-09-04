@@ -7,6 +7,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine wes" />
         <option value="Gorgeous" />
         <option value="package:mine Gorgeous" />
         <option value="package:mine IWesterosService" />
@@ -26,7 +27,6 @@
         <option value="tag=:humin_debug" />
         <option value="humin_de" />
         <option value="package:mine level:error " />
-        <option value=" gorgeous" />
       </list>
     </option>
   </component>
