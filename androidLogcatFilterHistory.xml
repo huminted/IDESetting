@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="Gorgeous" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  level:error " />
         <option value="Gorgeous" />
         <option value="gorgeous" />
         <option value="package:mine  gor" />
@@ -27,7 +28,6 @@
         <option value="loadResources" />
         <option value=" Gorgeous" />
         <option value="g" />
-        <option value="package:mine humin_debug" />
       </list>
     </option>
   </component>
