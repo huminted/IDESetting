@@ -76,7 +76,7 @@
         </key>
         <name value="ONEPLUS A5000" />
         <target value="Android 12L" />
-        <api value="androidversion:32:null:null:true" />
+        <api value="androidversion:32:null:1:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
