@@ -5,8 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="humin_debug" />
     <option name="nonFavorites">
       <list>
+        <option value="humin_debug" />
         <option value="light" />
         <option value="package:mine level:error " />
         <option value="package:mine  level:error " />
@@ -25,7 +27,6 @@
         <option value="humin" />
         <option value="setDistance" />
         <option value="Geo" />
-        <option value="humin_debug" />
         <option value="loadResources" />
       </list>
     </option>
