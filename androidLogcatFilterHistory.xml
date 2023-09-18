@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="getMultiLights" />
     <option name="nonFavorites">
       <list>
+        <option value="getMultiLights" />
+        <option value="package:mine  getMultiLights" />
         <option value="humin_debug" />
         <option value="Kan" />
         <option value="Kans" />
@@ -26,8 +28,6 @@
         <option value="package:mine IWesterosService" />
         <option value="package:mine we" />
         <option value="is:crash " />
-        <option value="humin" />
-        <option value="setDistance" />
       </list>
     </option>
   </component>
