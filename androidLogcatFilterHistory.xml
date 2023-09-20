@@ -5,9 +5,9 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="humin_debug" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 4" />
         <option value="humin_debug" />
         <option value="getMultiLights" />
         <option value="package:mine  getMultiLights" />
@@ -27,7 +27,6 @@
         <option value="package:mine Gorgeous" />
         <option value="package:mine IWesterosService" />
         <option value="package:mine we" />
-        <option value="is:crash " />
       </list>
     </option>
   </component>
