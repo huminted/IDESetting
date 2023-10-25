@@ -5,15 +5,21 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="humin_debug" />
     <option name="nonFavorites">
       <list>
+        <option value="humin_debug" />
+        <option value="package:mine level:debug humin_debug" />
+        <option value="package:mine humin_debug" />
+        <option value="package:mine humin" />
+        <option value="tag=:humin_debug" />
+        <option value="package:mine tag=:humin" />
         <option value="package:mine tag=:humin_debug" />
         <option value="onUIResume" />
         <option value="package:mine  onUIResume" />
         <option value="GSAIRelighting::resize called " />
         <option value="AIRelightingPbrEffect::====size: " />
         <option value="is:crash " />
-        <option value="humin_debug" />
         <option value="package:mine 4" />
         <option value="getMultiLights" />
         <option value="package:mine  getMultiLights" />
@@ -22,11 +28,6 @@
         <option value="light" />
         <option value="package:mine level:error " />
         <option value="package:mine  level:error " />
-        <option value="Gorgeous" />
-        <option value="gorgeous" />
-        <option value="package:mine  gor" />
-        <option value="package:mine  westeros" />
-        <option value="package:mine  we" />
       </list>
     </option>
   </component>
