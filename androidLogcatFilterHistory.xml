@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="updateEditPic" />
+    <option name="mostRecentlyUsed" value="LaunchReporter" />
     <option name="nonFavorites">
       <list>
+        <option value="LaunchReporter" />
         <option value="updateEditPic" />
         <option value="humin_debug" />
         <option value="package:mine level:debug humin_debug" />
@@ -27,7 +28,6 @@
         <option value="Kan" />
         <option value="Kans" />
         <option value="light" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
