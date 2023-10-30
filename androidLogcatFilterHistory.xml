@@ -5,12 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="LaunchReporter" />
+    <option name="mostRecentlyUsed" value="humin_debug" />
     <option name="nonFavorites">
       <list>
+        <option value="humin_debug" />
         <option value="LaunchReporter" />
         <option value="updateEditPic" />
-        <option value="humin_debug" />
         <option value="package:mine level:debug humin_debug" />
         <option value="package:mine humin_debug" />
         <option value="package:mine humin" />
