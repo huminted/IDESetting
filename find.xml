@@ -2,15 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*</mask>
     <mask>*kt</mask>
-    <mask>*.properties</mask>
     <mask>*.cpp</mask>
     <mask>*.png</mask>
     <mask>*.json</mask>
@@ -19,5 +17,6 @@
     <mask>*.kt</mask>
     <mask>*.kts</mask>
     <mask>*.gradle</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
