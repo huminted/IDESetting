@@ -17,5 +17,6 @@
     <mask>*.kts</mask>
     <mask>*.gradle</mask>
     <mask>*.properties</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
