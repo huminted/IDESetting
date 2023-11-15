@@ -5,8 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="Hello" />
     <option name="nonFavorites">
       <list>
+        <option value="Hello" />
         <option value="XTAILightRenderFragment" />
         <option value="package:mine level:error " />
         <option value="LaunchReporter" />
@@ -26,7 +28,6 @@
         <option value="is:crash " />
         <option value="package:mine 4" />
         <option value="getMultiLights" />
-        <option value="package:mine  getMultiLights" />
       </list>
     </option>
   </component>
