@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:min ZZipUtils" />
     <option name="nonFavorites">
       <list>
+        <option value="package:min ZZipUtils" />
+        <option value="package:mine level:error ZZipUtils" />
         <option value="package:mine level:error " />
         <option value="Hello" />
         <option value="XTAILightRenderFragment" />
@@ -26,8 +28,6 @@
         <option value="GSAIRelighting::resize called " />
         <option value="AIRelightingPbrEffect::====size: " />
         <option value="is:crash " />
-        <option value="package:mine 4" />
-        <option value="getMultiLights" />
       </list>
     </option>
   </component>
