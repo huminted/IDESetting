@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error int" />
+    <option name="mostRecentlyUsed" value="humin_debug" />
     <option name="nonFavorites">
       <list>
+        <option value="humin_debug" />
         <option value="package:mine level:error int" />
         <option value="package:mine level:error " />
         <option value="package:min " />
@@ -16,7 +17,6 @@
         <option value="Hello" />
         <option value="XTAILightRenderFragment" />
         <option value="LaunchReporter" />
-        <option value="humin_debug" />
         <option value="WesterosController" />
         <option value="updateEditPic" />
         <option value="package:mine level:debug humin_debug" />
