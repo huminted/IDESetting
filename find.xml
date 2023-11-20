@@ -9,7 +9,6 @@
     <mask>*</mask>
     <mask>*kt</mask>
     <mask>*.cpp</mask>
-    <mask>*.png</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
@@ -18,5 +17,6 @@
     <mask>*.gradle</mask>
     <mask>*.properties</mask>
     <mask>*.proto</mask>
+    <mask>*.png</mask>
   </component>
 </application>
