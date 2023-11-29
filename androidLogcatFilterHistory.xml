@@ -5,11 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="当前点" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:error " />
+        <option value="当前点" />
         <option value="humin_debug" />
+        <option value="package:mine level:error " />
         <option value="package:mine level:error int" />
         <option value="package:min " />
         <option value="package:min ZZipUtils" />
@@ -27,7 +28,6 @@
         <option value="package:mine tag=:humin_debug" />
         <option value="onUIResume" />
         <option value="package:mine  onUIResume" />
-        <option value="GSAIRelighting::resize called " />
       </list>
     </option>
   </component>
