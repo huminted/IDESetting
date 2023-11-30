@@ -10,7 +10,6 @@
     <mask>*.jsp</mask>
     <mask>*</mask>
     <mask>*kt</mask>
-    <mask>*.cpp</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
@@ -20,5 +19,6 @@
     <mask>*.proto</mask>
     <mask>*.png</mask>
     <mask>*.kt</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>
