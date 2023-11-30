@@ -14,11 +14,11 @@
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*.kt</mask>
     <mask>*.kts</mask>
     <mask>*.gradle</mask>
     <mask>*.properties</mask>
     <mask>*.proto</mask>
     <mask>*.png</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
