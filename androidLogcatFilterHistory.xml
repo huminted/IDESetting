@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="比例" />
+    <option name="mostRecentlyUsed" value="[ApplyAiRelight] Key:" />
     <option name="nonFavorites">
       <list>
+        <option value="[ApplyAiRelight] Key:" />
+        <option value="ApplyAiRelight" />
         <option value="比例" />
         <option value="package:mine level:error " />
         <option value="是否在图片内" />
@@ -26,8 +28,6 @@
         <option value="updateEditPic" />
         <option value="package:mine level:debug humin_debug" />
         <option value="package:mine humin_debug" />
-        <option value="package:mine humin" />
-        <option value="tag=:humin_debug" />
       </list>
     </option>
   </component>
