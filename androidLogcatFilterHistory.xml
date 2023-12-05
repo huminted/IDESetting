@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value=" level:error " />
     <option name="nonFavorites">
       <list>
+        <option value=" level:error " />
         <option value="package:mine level:error " />
         <option value="AILightProcessedImageManager" />
         <option value="humin_debug" />
@@ -27,7 +28,6 @@
         <option value="XTAILightRenderFragment" />
         <option value="LaunchReporter" />
         <option value="WesterosController" />
-        <option value="updateEditPic" />
       </list>
     </option>
   </component>
