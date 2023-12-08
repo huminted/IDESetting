@@ -5,12 +5,13 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="比例" />
+    <option name="mostRecentlyUsed" value="package:mine level:error @WholeView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error @WholeView" />
+        <option value="package:mine level:error " />
         <option value="比例" />
         <option value="AiLightUtil" />
-        <option value="package:mine level:error " />
         <option value="level:info AILightProcessedImageManager" />
         <option value="level:error package:mine " />
         <option value=" level:error " />
@@ -27,7 +28,6 @@
         <option value="package:min " />
         <option value="package:min ZZipUtils" />
         <option value="package:mine level:error ZZipUtils" />
-        <option value="Hello" />
       </list>
     </option>
   </component>
