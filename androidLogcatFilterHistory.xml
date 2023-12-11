@@ -5,9 +5,13 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="level:error package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error package:mine " />
+        <option value="level:error " />
+        <option value="StopWatch" />
+        <option value="AiRelightPass" />
         <option value="package:mine level:error " />
         <option value="calculateWhitePercentage" />
         <option value="pac" />
@@ -15,7 +19,6 @@
         <option value="比例" />
         <option value="AiLightUtil" />
         <option value="level:info AILightProcessedImageManager" />
-        <option value="level:error package:mine " />
         <option value=" level:error " />
         <option value="AILightProcessedImageManager" />
         <option value="humin_debug" />
@@ -25,9 +28,6 @@
         <option value="是否在图片内" />
         <option value="X轴百分比" />
         <option value="轴百分比" />
-        <option value="当前点" />
-        <option value="package:mine level:error int" />
-        <option value="package:min " />
       </list>
     </option>
   </component>
