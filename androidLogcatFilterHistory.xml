@@ -5,9 +5,11 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error @WholeView" />
+    <option name="mostRecentlyUsed" value="calculateWhitePercentage" />
     <option name="nonFavorites">
       <list>
+        <option value="calculateWhitePercentage" />
+        <option value="pac" />
         <option value="package:mine level:error @WholeView" />
         <option value="package:mine level:error " />
         <option value="比例" />
@@ -26,8 +28,6 @@
         <option value="当前点" />
         <option value="package:mine level:error int" />
         <option value="package:min " />
-        <option value="package:min ZZipUtils" />
-        <option value="package:mine level:error ZZipUtils" />
       </list>
     </option>
   </component>
