@@ -5,14 +5,14 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="level:error package:mine " />
         <option value="level:error " />
         <option value="StopWatch" />
         <option value="AiRelightPass" />
-        <option value="package:mine level:error " />
         <option value="calculateWhitePercentage" />
         <option value="pac" />
         <option value="package:mine level:error @WholeView" />
