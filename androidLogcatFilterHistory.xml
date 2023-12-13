@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="AiRelightPass#StopWatch" />
+    <option name="mostRecentlyUsed" value="NewReporter" />
     <option name="nonFavorites">
       <list>
+        <option value="NewReporter" />
         <option value="AiRelightPass#StopWatch" />
         <option value="package:mine level:error " />
         <option value="level:error package:mine " />
@@ -27,7 +28,6 @@
         <option value="[ApplyAiRelight] Key:" />
         <option value="ApplyAiRelight" />
         <option value="是否在图片内" />
-        <option value="X轴百分比" />
       </list>
     </option>
   </component>
