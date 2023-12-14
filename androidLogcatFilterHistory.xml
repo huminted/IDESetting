@@ -5,12 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="genIntColors" />
+    <option name="mostRecentlyUsed" value="interpolateColor" />
     <option name="nonFavorites">
       <list>
+        <option value="interpolateColor" />
         <option value="genIntColors" />
         <option value="resultColor" />
-        <option value="interpolateColor" />
         <option value="caculateColor" />
         <option value="genDefaultPosition" />
         <option value="NewReporter" />
