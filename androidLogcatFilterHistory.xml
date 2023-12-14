@@ -9,6 +9,8 @@
     <option name="nonFavorites">
       <list>
         <option value="genIntColors" />
+        <option value="resultColor" />
+        <option value="interpolateColor" />
         <option value="caculateColor" />
         <option value="genDefaultPosition" />
         <option value="NewReporter" />
@@ -26,8 +28,6 @@
         <option value="level:info AILightProcessedImageManager" />
         <option value=" level:error " />
         <option value="AILightProcessedImageManager" />
-        <option value="humin_debug" />
-        <option value=" AILightProcessedImageManager" />
       </list>
     </option>
   </component>
