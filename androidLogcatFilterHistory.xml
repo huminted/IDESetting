@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="NewReporter" />
+    <option name="mostRecentlyUsed" value="caculateColor" />
     <option name="nonFavorites">
       <list>
+        <option value="caculateColor" />
         <option value="NewReporter" />
         <option value="AiRelightPass#StopWatch" />
         <option value="package:mine level:error " />
@@ -27,7 +28,6 @@
         <option value=" AILightProcessedImageManager" />
         <option value="[ApplyAiRelight] Key:" />
         <option value="ApplyAiRelight" />
-        <option value="是否在图片内" />
       </list>
     </option>
   </component>
