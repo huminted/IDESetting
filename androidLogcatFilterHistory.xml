@@ -5,10 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="caculateColor" />
+    <option name="mostRecentlyUsed" value="genIntColors" />
     <option name="nonFavorites">
       <list>
+        <option value="genIntColors" />
         <option value="caculateColor" />
+        <option value="genDefaultPosition" />
         <option value="NewReporter" />
         <option value="AiRelightPass#StopWatch" />
         <option value="package:mine level:error " />
@@ -26,8 +28,6 @@
         <option value="AILightProcessedImageManager" />
         <option value="humin_debug" />
         <option value=" AILightProcessedImageManager" />
-        <option value="[ApplyAiRelight] Key:" />
-        <option value="ApplyAiRelight" />
       </list>
     </option>
   </component>
