@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="TemplateEncodeTask" />
+    <option name="mostRecentlyUsed" value="light" />
     <option name="nonFavorites">
       <list>
+        <option value="light" />
         <option value="TemplateEncodeTask" />
         <option value="AIRelightListContainerPresenter" />
         <option value="level:error package:mine " />
@@ -27,7 +28,6 @@
         <option value="package:mine level:error @WholeView" />
         <option value="比例" />
         <option value="AiLightUtil" />
-        <option value="level:info AILightProcessedImageManager" />
       </list>
     </option>
   </component>
