@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error package:mine " />
+    <option name="mostRecentlyUsed" value="AIRelightListContainerPresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="AIRelightListContainerPresenter" />
         <option value="level:error package:mine " />
         <option value="interpolateColor" />
         <option value="genIntColors" />
@@ -27,7 +28,6 @@
         <option value="AiLightUtil" />
         <option value="level:info AILightProcessedImageManager" />
         <option value=" level:error " />
-        <option value="AILightProcessedImageManager" />
       </list>
     </option>
   </component>
