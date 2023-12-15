@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="light" />
+    <option name="mostRecentlyUsed" value="EDIT_MATERIAL_APPLY_ALL" />
     <option name="nonFavorites">
       <list>
+        <option value="EDIT_MATERIAL_APPLY_ALL" />
         <option value="light" />
         <option value="TemplateEncodeTask" />
         <option value="AIRelightListContainerPresenter" />
@@ -27,7 +28,6 @@
         <option value="pac" />
         <option value="package:mine level:error @WholeView" />
         <option value="比例" />
-        <option value="AiLightUtil" />
       </list>
     </option>
   </component>
