@@ -5,8 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="EDIT_MATERIAL_APPLY_ALL" />
         <option value="light" />
         <option value="TemplateEncodeTask" />
@@ -19,7 +21,6 @@
         <option value="genDefaultPosition" />
         <option value="NewReporter" />
         <option value="AiRelightPass#StopWatch" />
-        <option value="package:mine level:error " />
         <option value="level:error " />
         <option value="StopWatch" />
         <option value="AiRelightPass" />
