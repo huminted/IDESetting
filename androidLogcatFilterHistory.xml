@@ -5,8 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine  level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  level:error " />
         <option value="package:mine KrnContainerHelper" />
         <option value="package:mine level:error " />
         <option value="EDIT_MATERIAL_APPLY_ALL" />
@@ -26,7 +28,6 @@
         <option value="AiRelightPass" />
         <option value="calculateWhitePercentage" />
         <option value="pac" />
-        <option value="package:mine level:error @WholeView" />
       </list>
     </option>
   </component>
