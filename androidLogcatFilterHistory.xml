@@ -5,9 +5,12 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  level:error " />
+    <option name="mostRecentlyUsed" value="VipToastPresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="VipToastPresenter" />
+        <option value="currentVipToastType" />
+        <option value="level:error package:mine " />
         <option value="package:mine  level:error " />
         <option value="package:mine KrnContainerHelper" />
         <option value="package:mine level:error " />
@@ -15,7 +18,6 @@
         <option value="light" />
         <option value="TemplateEncodeTask" />
         <option value="AIRelightListContainerPresenter" />
-        <option value="level:error package:mine " />
         <option value="interpolateColor" />
         <option value="genIntColors" />
         <option value="resultColor" />
@@ -26,8 +28,6 @@
         <option value="level:error " />
         <option value="StopWatch" />
         <option value="AiRelightPass" />
-        <option value="calculateWhitePercentage" />
-        <option value="pac" />
       </list>
     </option>
   </component>
