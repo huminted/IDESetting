@@ -5,9 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine ed" />
+    <option name="mostRecentlyUsed" value="LaunchReporter" />
     <option name="nonFavorites">
       <list>
+        <option value="LaunchReporter" />
         <option value="package:mine ed" />
         <option value="VipToastPresenter" />
         <option value="currentVipToastType" />
@@ -27,7 +28,6 @@
         <option value="NewReporter" />
         <option value="AiRelightPass#StopWatch" />
         <option value="level:error " />
-        <option value="StopWatch" />
       </list>
     </option>
   </component>
