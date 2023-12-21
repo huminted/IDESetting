@@ -5,8 +5,10 @@
         <option value="package:mine " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine FaceDetectorContext" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine FaceDetectorContext" />
         <option value="package:mine daenerys" />
         <option value="LaunchReporter" />
         <option value="package:mine ed" />
@@ -26,7 +28,6 @@
         <option value="caculateColor" />
         <option value="genDefaultPosition" />
         <option value="NewReporter" />
-        <option value="AiRelightPass#StopWatch" />
       </list>
     </option>
   </component>
