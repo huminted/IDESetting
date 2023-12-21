@@ -5,9 +5,9 @@
         <option value="package:mine " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="LaunchReporter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine daenerys" />
         <option value="LaunchReporter" />
         <option value="package:mine ed" />
         <option value="VipToastPresenter" />
@@ -27,7 +27,6 @@
         <option value="genDefaultPosition" />
         <option value="NewReporter" />
         <option value="AiRelightPass#StopWatch" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
